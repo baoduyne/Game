@@ -1,0 +1,16 @@
+Username: sansukai
+PIN: 123
+Name: Duy
+Money: -1871
+Username: sansukai1
+PIN: 333
+Name: tui
+Money: 1066
+Username: sansukai3
+PIN: 222
+Name: nam
+Money: 5000
+Username: sansukai4
+PIN: 555
+Name: oi
+Money: 0
